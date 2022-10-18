@@ -1,0 +1,295 @@
+,Diagnose,Oddsratio,P-value,fdr,Bonferroni-Holm adj. P-values,Diagnosis name
+0,J12.8,28.79638009049774,1.6835146539698653e-19,9.262697626142202e-16,4.949533082671404e-17,Other viral pneumonia
+1,J96.00,8.854637748038764,8.811868310054695e-15,2.4241449720960468e-11,2.5818774148460256e-12,Acute respiratory failure
+2,J80.02,inf,7.869984485082485e-13,1.4433551545641276e-09,2.2980354696440857e-10,Adult respiratory distress syndrome
+3,J96.01,17.756756756756758,5.925668916553509e-09,8.150757594719353e-06,1.7243696547170712e-06,Acute respiratory failure
+4,A49.9,6.765845070422535,5.076513861828871e-07,0.0005586195853556488,0.00014721890199303727,"Bacterial infection, unspecified"
+5,J80.03,18.565400843881854,2.029236605729538e-06,0.0018608099674539862,0.0005864493790558365,Adult respiratory distress syndrome
+6,E87.5,8.082666666666666,2.477581865464391e-06,0.0019473793462550114,0.0007135435772537446,Hyperkalaemia
+7,E87.2,inf,2.9957026934647287e-06,0.0020602945274303675,0.0008597666730243772,Acidosis
+8,K72.0,inf,1.8984814659787495e-05,0.011606050028683422,0.005429656992699224,Acute and subacute hepatic failure
+9,E88.0,12.520325203252034,0.00023141827574157305,0.1273263353130135,0.06595420858634832,"Disorders of plasma-protein metabolism, not elsewhere classified"
+10,R65.1,6.1171875,0.0005376475112104287,0.2689215096981617,0.15269189318376175,Systemic Inflammatory Response Syndrome of infectious origin with organ failure
+11,N17.93,4.664694280078894,0.0006094056393843128,0.2794124856577074,0.17246179594576053,"Acute renal failure, unspecified"
+12,R06.0,2.1117628897807967,0.0018183979136158941,0.7146303800510463,0.5127882116396821,Dyspnoea
+13,I46.0,20.8,0.0032228982981969806,1.0,0.9056344217933515,Cardiac arrest with successful resuscitation
+14,J44.00,20.8,0.0032228982981969806,1.0,0.9056344217933515,Chronic obstructive pulmonary disease with acute lower respiratory infection
+15,E11.91,5.317073170731708,0.003687596034936879,1.0,1.0,Type 2 diabetes mellitus without complications
+16,J15.2,inf,0.004551032201546779,1.0,1.0,Pneumonia due to staphylococcus
+17,J18.0,inf,0.004551032201546779,1.0,1.0,"Bronchopneumonia, unspecified"
+18,T81.0,inf,0.004551032201546779,1.0,1.0,"Haemorrhage and haematoma complicating a procedure, not elsewhere classified"
+19,U69.01,inf,0.004551032201546779,1.0,1.0,nan
+20,D50.8,3.7211538461538463,0.005252061458081775,1.0,1.0,Other iron deficiency anaemias
+21,B96.5,10.376470588235296,0.00842925770894512,1.0,1.0,Pseudomonas (aeruginosa) as the cause of diseases classified to other chapters
+22,I26.9,10.376470588235296,0.00842925770894512,1.0,1.0,Pulmonary embolism without mention of acute cor pulmonale
+23,J69.0,10.376470588235296,0.00842925770894512,1.0,1.0,Pneumonitis due to food and vomit
+24,I10.91,6.532738095238094,0.008509227679629352,1.0,1.0,Essential (primary) hypertension
+25,N40,3.21,0.010277154973160608,1.0,1.0,Hyperplasia of prostate
+26,I48.2,5.214285714285714,0.014785494222488628,1.0,1.0,Chronic atrial fibrillation
+27,E46,15.418604651162793,0.015984532760813932,1.0,1.0,Unspecified protein-energy malnutrition
+28,I27.28,15.418604651162793,0.015984532760813932,1.0,1.0,Other secondary pulmonary hypertension
+29,J41.0,15.418604651162793,0.015984532760813932,1.0,1.0,Simple chronic bronchitis
+30,R73.9,15.418604651162793,0.015984532760813932,1.0,1.0,"Hyperglycaemia, unspecified"
+31,Z46.6,15.418604651162793,0.015984532760813932,1.0,1.0,Fitting and adjustment of urinary device
+32,E11.90,2.1360503446209167,0.019643622677571318,1.0,1.0,Type 2 diabetes mellitus without complications
+33,A41.0,inf,0.027724678928969092,1.0,1.0,Sepsis due to Staphylococcus aureus
+34,A41.4,inf,0.027724678928969092,1.0,1.0,Sepsis due to anaerobes
+35,A49.8,inf,0.027724678928969092,1.0,1.0,Other bacterial infections of unspecified site
+36,E66.02,inf,0.027724678928969092,1.0,1.0,Obesity due to excess calories
+37,F05.9,inf,0.027724678928969092,1.0,1.0,"Delirium, unspecified"
+38,H91.9,inf,0.027724678928969092,1.0,1.0,"Hearing loss, unspecified"
+39,I49.3,inf,0.027724678928969092,1.0,1.0,Ventricular premature depolarization
+40,I49.8,inf,0.027724678928969092,1.0,1.0,Other specified cardiac arrhythmias
+41,J15.5,inf,0.027724678928969092,1.0,1.0,Pneumonia due to Escherichia coli
+42,J15.6,inf,0.027724678928969092,1.0,1.0,Pneumonia due to other Gram-negative bacteria
+43,J95.80,inf,0.027724678928969092,1.0,1.0,Other postprocedural respiratory disorders
+44,L89.20,inf,0.027724678928969092,1.0,1.0,Stage III decubitus ulcer
+45,R13.9,inf,0.027724678928969092,1.0,1.0,Dysphagia
+46,K59.09,1.9893617021276595,0.031661841901443985,1.0,1.0,Constipation
+47,I10.00,1.658473105841527,0.035052271268311376,1.0,1.0,Essential (primary) hypertension
+48,E66.82,7.691860465116278,0.035126984454757884,1.0,1.0,Other obesity
+49,J44.10,7.691860465116278,0.035126984454757884,1.0,1.0,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+50,D64.9,3.707482993197279,0.035131549326734006,1.0,1.0,"Anaemia, unspecified"
+51,J45.9,3.1301204819277113,0.036043808676387463,1.0,1.0,"Asthma, unspecified"
+52,I50.01,2.818106995884773,0.03868923822078485,1.0,1.0,Congestive heart failure
+53,B96.2,2.048288288288288,0.04603723569597706,1.0,1.0,Escherichia coli [E. coli] as the cause of diseases classified to other chapters
+54,D62,4.12235294117647,0.04712672652561404,1.0,1.0,Acute posthaemorrhagic anaemia
+55,I50.14,2.3115024766097965,0.04963063172171822,1.0,1.0,Left ventricular failure
+56,Z95.5,2.3115024766097965,0.04963063172171822,1.0,1.0,Presence of coronary angioplasty implant and graft
+57,I70.29,5.116279069767441,0.06182471120055534,1.0,1.0,Atherosclerosis of arteries of extremities
+58,R00.0,5.116279069767441,0.06182471120055534,1.0,1.0,"Tachycardia, unspecified"
+59,R60.0,5.116279069767441,0.06182471120055534,1.0,1.0,Localized oedema
+60,B37.1,10.160919540229887,0.0740719723837642,1.0,1.0,Pulmonary candidiasis
+61,F41.9,10.160919540229887,0.0740719723837642,1.0,1.0,"Anxiety disorder, unspecified"
+62,G81.0,10.160919540229887,0.0740719723837642,1.0,1.0,Flaccid hemiplegia
+63,R04.2,10.160919540229887,0.0740719723837642,1.0,1.0,Haemoptysis
+64,R06.4,10.160919540229887,0.0740719723837642,1.0,1.0,Hyperventilation
+65,Z97.8,10.160919540229887,0.0740719723837642,1.0,1.0,Presence of other specified devices
+66,R50.88,1.4961180124223603,0.09415359468646034,1.0,1.0,Other specified fever
+67,R52.2,2.9310924369747897,0.09447320490554643,1.0,1.0,Other chronic pain
+68,G47.8,3.828488372093023,0.09532375996909656,1.0,1.0,Other sleep disorders
+69,J90,2.391102873030584,0.1087834982866108,1.0,1.0,"Pleural effusion, not elsewhere classified"
+70,E87.6,1.7227397260273971,0.11063280912731226,1.0,1.0,Hypokalaemia
+71,G40.2,2.5588235294117645,0.12414403269496145,1.0,1.0,Localization-related (focal)(partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures
+72,I51.7,5.068965517241379,0.1321594120067336,1.0,1.0,Cardiomegaly
+73,I95.8,5.068965517241379,0.1321594120067336,1.0,1.0,Other hypotension
+74,J17.2,5.068965517241379,0.1321594120067336,1.0,1.0,Pneumonia in mycoses
+75,R04.0,5.068965517241379,0.1321594120067336,1.0,1.0,Epistaxis
+76,R52.9,5.068965517241379,0.1321594120067336,1.0,1.0,"Pain, unspecified"
+77,R74.0,5.068965517241379,0.1321594120067336,1.0,1.0,Elevation of levels of transaminase and lactic acid dehydrogenase [LDH]
+78,U69.12,5.068965517241379,0.1321594120067336,1.0,1.0,nan
+79,Z03.9,3.055813953488372,0.13453997972739395,1.0,1.0,"Observation for suspected disease or condition, unspecified"
+80,N18.4,1.8900112233445567,0.13506721250641945,1.0,1.0,"Chronic kidney disease, stage 4"
+81,N39.0,1.5932432432432433,0.15602995592739366,1.0,1.0,"Urinary tract infection, site not specified"
+82,I10.01,2.015582655826558,0.16343072026889433,1.0,1.0,Essential (primary) hypertension
+83,A41.58,inf,0.1672932330827712,1.0,1.0,Sepsis due to other Gram-negative organisms
+84,A49.0,inf,0.1672932330827712,1.0,1.0,"Staphylococcal infection, unspecified site"
+85,B37.7,inf,0.1672932330827712,1.0,1.0,Candidal sepsis
+86,B96.3,inf,0.1672932330827712,1.0,1.0,Haemophilus influenzae [H. influenzae] as the cause of diseases classified to other chapters
+87,B96.7,inf,0.1672932330827712,1.0,1.0,Clostridium perfringens [C. perfringens] as the cause of diseases classified to other chapters
+88,B98.0,inf,0.1672932330827712,1.0,1.0,Helicobacter pylori [H.pylori] as the cause of diseases classified to other chapters
+89,C18.7,inf,0.1672932330827712,1.0,1.0,Malignant neoplasm: Sigmoid colon
+90,C51.9,inf,0.1672932330827712,1.0,1.0,"Malignant neoplasm: Vulva, unspecified"
+91,C64,inf,0.1672932330827712,1.0,1.0,"Malignant neoplasm of kidney, except renal pelvis"
+92,C88.00,inf,0.1672932330827712,1.0,1.0,Waldenström macroglobulinaemia
+93,C91.10,inf,0.1672932330827712,1.0,1.0,Chronic lymphocytic leukaemia of B-cell type
+94,D37.0,inf,0.1672932330827712,1.0,1.0,"Neoplasm of uncertain or unknown behaviour: Lip, oral cavity and pharynx"
+95,D68.4,inf,0.1672932330827712,1.0,1.0,Acquired coagulation factor deficiency
+96,D69.59,inf,0.1672932330827712,1.0,1.0,Secondary thrombocytopenia
+97,E26.8,inf,0.1672932330827712,1.0,1.0,Other hyperaldosteronism
+98,E53.9,inf,0.1672932330827712,1.0,1.0,"Vitamin B deficiency, unspecified"
+99,E54,inf,0.1672932330827712,1.0,1.0,Ascorbic acid deficiency
+100,F06.3,inf,0.1672932330827712,1.0,1.0,Organic mood [affective] disorders
+101,F13.1,inf,0.1672932330827712,1.0,1.0,Mental and behavioural disorders due to use of sedatives or hypnotics : harmful use
+102,F13.2,inf,0.1672932330827712,1.0,1.0,Mental and behavioural disorders due to use of sedatives or hypnotics : dependence syndrome
+103,F41.3,inf,0.1672932330827712,1.0,1.0,Other mixed anxiety disorders
+104,F45.41,inf,0.1672932330827712,1.0,1.0,Persistent somatoform pain disorder
+105,G45.02,inf,0.1672932330827712,1.0,1.0,Vertebro-basilar artery syndrome
+106,G46.8,inf,0.1672932330827712,1.0,1.0,Other vascular syndromes of brain in cerebrovascular diseases
+107,G62.80,inf,0.1672932330827712,1.0,1.0,Other specified polyneuropathies
+108,H53.8,inf,0.1672932330827712,1.0,1.0,Other visual disturbances
+109,H54.0,inf,0.1672932330827712,1.0,1.0,"Blindness, binocular"
+110,I21.3,inf,0.1672932330827712,1.0,1.0,Acute transmural myocardial infarction of unspecified site
+111,I24.0,inf,0.1672932330827712,1.0,1.0,Coronary thrombosis not resulting in myocardial infarction
+112,I31.3,inf,0.1672932330827712,1.0,1.0,Pericardial effusion (noninflammatory)
+113,I44.2,inf,0.1672932330827712,1.0,1.0,"Atrioventricular block, complete"
+114,I49.4,inf,0.1672932330827712,1.0,1.0,Other and unspecified premature depolarization
+115,I63.1,inf,0.1672932330827712,1.0,1.0,Cerebral infarction due to embolism of precerebral arteries
+116,I67.88,inf,0.1672932330827712,1.0,1.0,Other specified cerebrovascular diseases
+117,I70.21,inf,0.1672932330827712,1.0,1.0,Atherosclerosis of arteries of extremities
+118,I71.2,inf,0.1672932330827712,1.0,1.0,"Thoracic aortic aneurysm, without mention of rupture"
+119,I71.6,inf,0.1672932330827712,1.0,1.0,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+120,I77.9,inf,0.1672932330827712,1.0,1.0,"Disorder of arteries and arterioles, unspecified"
+121,I87.20,inf,0.1672932330827712,1.0,1.0,Venous insufficiency (chronic)(peripheral)
+122,I89.00,inf,0.1672932330827712,1.0,1.0,"Lymphoedema, not elsewhere classified"
+123,J15.9,inf,0.1672932330827712,1.0,1.0,"Bacterial pneumonia, unspecified"
+124,J17.8,inf,0.1672932330827712,1.0,1.0,Pneumonia in other diseases classified elsewhere
+125,J42,inf,0.1672932330827712,1.0,1.0,Unspecified chronic bronchitis
+126,J44.11,inf,0.1672932330827712,1.0,1.0,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+127,J93.0,inf,0.1672932330827712,1.0,1.0,Spontaneous tension pneumothorax
+128,J93.9,inf,0.1672932330827712,1.0,1.0,"Pneumothorax, unspecified"
+129,K25.0,inf,0.1672932330827712,1.0,1.0,Gastric ulcer : acute with haemorrhage
+130,K56.6,inf,0.1672932330827712,1.0,1.0,Other and unspecified intestinal obstruction
+131,K65.8,inf,0.1672932330827712,1.0,1.0,Other peritonitis
+132,K65.9,inf,0.1672932330827712,1.0,1.0,"Peritonitis, unspecified"
+133,K81.0,inf,0.1672932330827712,1.0,1.0,Acute cholecystitis
+134,K82.2,inf,0.1672932330827712,1.0,1.0,Perforation of gallbladder
+135,K92.2,inf,0.1672932330827712,1.0,1.0,"Gastrointestinal haemorrhage, unspecified"
+136,L89.37,inf,0.1672932330827712,1.0,1.0,Stage IV decubitus ulcer
+137,M17.1,inf,0.1672932330827712,1.0,1.0,Other primary gonarthrosis
+138,M25.51,inf,0.1672932330827712,1.0,1.0,Pain in joint
+139,M54.2,inf,0.1672932330827712,1.0,1.0,Cervicalgia
+140,M81.80,inf,0.1672932330827712,1.0,1.0,Other osteoporosis
+141,N17.13,inf,0.1672932330827712,1.0,1.0,Acute renal failure with acute cortical necrosis
+142,O23.0,inf,0.1672932330827712,1.0,1.0,Infections of kidney in pregnancy
+143,O24.1,inf,0.1672932330827712,1.0,1.0,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent"
+144,O41.0,inf,0.1672932330827712,1.0,1.0,Oligohydramnios
+145,O99.3,inf,0.1672932330827712,1.0,1.0,"Mental disorders and diseases of the nervous system complicating pregnancy, childbirth and the puerperium"
+146,Q90.9,inf,0.1672932330827712,1.0,1.0,"Down syndrome, unspecified"
+147,R00.1,inf,0.1672932330827712,1.0,1.0,"Bradycardia, unspecified"
+148,R06.88,inf,0.1672932330827712,1.0,1.0,Other and unspecified abnormalities of breathing
+149,R17.0,inf,0.1672932330827712,1.0,1.0,"Hyperbilirubinaemia with mention of jaundice, not elsewhere classified"
+150,R20.2,inf,0.1672932330827712,1.0,1.0,Paraesthesia of skin
+151,R33,inf,0.1672932330827712,1.0,1.0,Retention of urine
+152,R34,inf,0.1672932330827712,1.0,1.0,Anuria and oliguria
+153,R45.1,inf,0.1672932330827712,1.0,1.0,Restlessness and agitation
+154,R47.1,inf,0.1672932330827712,1.0,1.0,Dysarthria and anarthria
+155,R54,inf,0.1672932330827712,1.0,1.0,Senility
+156,R60.1,inf,0.1672932330827712,1.0,1.0,Generalized oedema
+157,S22.04,inf,0.1672932330827712,1.0,1.0,Fracture of thoracic vertebra
+158,S22.06,inf,0.1672932330827712,1.0,1.0,Fracture of thoracic vertebra
+159,S22.5,inf,0.1672932330827712,1.0,1.0,Flail chest
+160,T81.3,inf,0.1672932330827712,1.0,1.0,"Disruption of operation wound, not elsewhere classified"
+161,T81.4,inf,0.1672932330827712,1.0,1.0,"Infection following a procedure, not elsewhere classified"
+162,T82.5,inf,0.1672932330827712,1.0,1.0,Mechanical complication of other cardiac and vascular devices and implants
+163,T85.74,inf,0.1672932330827712,1.0,1.0,"Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts"
+164,T88.4,inf,0.1672932330827712,1.0,1.0,Failed or difficult intubation
+165,U69.13,inf,0.1672932330827712,1.0,1.0,nan
+166,Y82.8,inf,0.1672932330827712,1.0,1.0,"Other and unspecified medical devices associated with adverse incidents : miscellaneous devices, not elsewhere classified"
+167,Y84.9,inf,0.1672932330827712,1.0,1.0,"Medical procedure, unspecified"
+168,Z96.2,inf,0.1672932330827712,1.0,1.0,Presence of otological and audiological implants
+169,J91,2.1378968253968256,0.1801209967383806,1.0,1.0,Pleural effusion in conditions classified elsewhere
+170,E78.4,1.8054878048780487,0.1890876133951193,1.0,1.0,Other hyperlipidaemia
+171,I48.0,1.8054878048780487,0.1890876133951193,1.0,1.0,Paroxysmal atrial fibrillation
+172,E83.58,3.371647509578544,0.19684769704143107,1.0,1.0,Disorders of calcium metabolism
+173,N17.91,1.968864468864469,0.20165282860761008,1.0,1.0,"Acute renal failure, unspecified"
+174,B34.2,1.8035426731078903,0.21023705368646708,1.0,1.0,"Coronavirus infection, unspecified site"
+175,U99.0,1.7647495361781076,0.21438685055083329,1.0,1.0,nan
+176,K21.0,2.1727574750830563,0.22520048844288326,1.0,1.0,Gastro-oesophageal reflux disease with oesophagitis
+177,E78.9,1.9292168674698795,0.2362917660951079,1.0,1.0,"Disorder of lipoprotein metabolism, unspecified"
+178,E87.1,1.6674107142857142,0.2499561815449028,1.0,1.0,Hypo-osmolality and hyponatraemia
+179,J43.9,2.522988505747126,0.26435918996188706,1.0,1.0,"Emphysema, unspecified"
+180,R10.4,2.522988505747126,0.26435918996188706,1.0,1.0,Other and unspecified abdominal pain
+181,Z92.1,1.476258581235698,0.26665190197227656,1.0,1.0,Personal history of long-term (current) use of anticoagulants
+182,I25.12,2.0376470588235294,0.2676335241988225,1.0,1.0,Atherosclerotic heart disease
+183,F33.9,1.6131896005072923,0.2843276749768964,1.0,1.0,"Recurrent depressive disorder, unspecified"
+184,Z95.1,1.848128342245989,0.2931221840923941,1.0,1.0,Presence of aortocoronary bypass graft
+185,A41.52,5.0227272727272725,0.3068617872365169,1.0,1.0,Sepsis due to other Gram-negative organisms
+186,B36.9,5.0227272727272725,0.3068617872365169,1.0,1.0,"Superficial mycosis, unspecified"
+187,B37.0,5.0227272727272725,0.3068617872365169,1.0,1.0,Candidal stomatitis
+188,B37.4,5.0227272727272725,0.3068617872365169,1.0,1.0,Candidiasis of other urogenital sites
+189,B95.91,5.0227272727272725,0.3068617872365169,1.0,1.0,Streptococcus and staphylococcus as the cause of diseases classified to other chapters
+190,E16.1,5.0227272727272725,0.3068617872365169,1.0,1.0,Other hypoglycaemia
+191,E61.2,5.0227272727272725,0.3068617872365169,1.0,1.0,Magnesium deficiency
+192,E66.00,5.0227272727272725,0.3068617872365169,1.0,1.0,Obesity due to excess calories
+193,E83.1,5.0227272727272725,0.3068617872365169,1.0,1.0,Disorders of iron metabolism
+194,F32.8,5.0227272727272725,0.3068617872365169,1.0,1.0,Other depressive episodes
+195,F60.31,5.0227272727272725,0.3068617872365169,1.0,1.0,Emotionally unstable personality disorder
+196,G21.8,5.0227272727272725,0.3068617872365169,1.0,1.0,Other secondary parkinsonism
+197,G81.9,5.0227272727272725,0.3068617872365169,1.0,1.0,"Hemiplegia, unspecified"
+198,H81.0,5.0227272727272725,0.3068617872365169,1.0,1.0,Ménière disease
+199,I07.1,5.0227272727272725,0.3068617872365169,1.0,1.0,Tricuspid insufficiency
+200,I42.9,5.0227272727272725,0.3068617872365169,1.0,1.0,"Cardiomyopathy, unspecified"
+201,I49.5,5.0227272727272725,0.3068617872365169,1.0,1.0,Sick sinus syndrome
+202,I50.05,5.0227272727272725,0.3068617872365169,1.0,1.0,Congestive heart failure
+203,I79.2,5.0227272727272725,0.3068617872365169,1.0,1.0,Peripheral angiopathy in diseases classified elsewhere
+204,I95.2,5.0227272727272725,0.3068617872365169,1.0,1.0,Hypotension due to drugs
+205,J15.1,5.0227272727272725,0.3068617872365169,1.0,1.0,Pneumonia due to Pseudomonas
+206,J44.01,5.0227272727272725,0.3068617872365169,1.0,1.0,Chronic obstructive pulmonary disease with acute lower respiratory infection
+207,J81,5.0227272727272725,0.3068617872365169,1.0,1.0,Pulmonary oedema
+208,J84.9,5.0227272727272725,0.3068617872365169,1.0,1.0,"Interstitial pulmonary disease, unspecified"
+209,J96.19,5.0227272727272725,0.3068617872365169,1.0,1.0,Chronic respiratory failure
+210,K80.00,5.0227272727272725,0.3068617872365169,1.0,1.0,Calculus of gallbladder with acute cholecystitis
+211,M15.9,5.0227272727272725,0.3068617872365169,1.0,1.0,"Polyarthrosis, unspecified"
+212,M54.4,5.0227272727272725,0.3068617872365169,1.0,1.0,Lumbago with sciatica
+213,M81.00,5.0227272727272725,0.3068617872365169,1.0,1.0,Postmenopausal osteoporosis
+214,R26.8,5.0227272727272725,0.3068617872365169,1.0,1.0,Other and unspecified abnormalities of gait and mobility
+215,R57.0,5.0227272727272725,0.3068617872365169,1.0,1.0,Cardiogenic shock
+216,R57.2,5.0227272727272725,0.3068617872365169,1.0,1.0,Septic shock
+217,R57.9,5.0227272727272725,0.3068617872365169,1.0,1.0,"Shock, unspecified"
+218,S22.44,5.0227272727272725,0.3068617872365169,1.0,1.0,Multiple fractures of ribs
+219,T45.5,5.0227272727272725,0.3068617872365169,1.0,1.0,Poisoning: Anticoagulants
+220,U04.9,5.0227272727272725,0.3068617872365169,1.0,1.0,"Severe acute respiratory syndrome [SARS], unspecified"
+221,X49.9,5.0227272727272725,0.3068617872365169,1.0,1.0,Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances
+222,Z95.81,5.0227272727272725,0.3068617872365169,1.0,1.0,Presence of other cardiac and vascular implants and grafts
+223,Z99.2,5.0227272727272725,0.3068617872365169,1.0,1.0,Dependence on renal dialysis
+224,E87.0,1.6901960784313723,0.32248996688600906,1.0,1.0,Hyperosmolality and hypernatraemia
+225,R40.0,1.6901960784313723,0.32248996688600906,1.0,1.0,Somnolence
+226,B95.6,2.013793103448276,0.3319733619591149,1.0,1.0,Staphylococcus aureus as the cause of diseases classified to other chapters
+227,E11.20,2.013793103448276,0.3319733619591149,1.0,1.0,Type 2 diabetes mellitus with renal complications
+228,L89.14,2.013793103448276,0.3319733619591149,1.0,1.0,Stage II decubitus ulcer
+229,I25.19,1.6984126984126984,0.35464924420182786,1.0,1.0,Atherosclerotic heart disease
+230,J96.90,1.6984126984126984,0.35464924420182786,1.0,1.0,"Respiratory failure, unspecified"
+231,N17.83,1.8968023255813955,0.4049185113981022,1.0,1.0,Other acute renal failure
+232,N18.5,1.8968023255813955,0.4049185113981022,1.0,1.0,"Chronic kidney disease, stage 5"
+233,E03.8,1.4310829817158932,0.40656633969904027,1.0,1.0,Other specified hypothyroidism
+234,A41.51,2.5056818181818183,0.4232566946628065,1.0,1.0,Sepsis due to other Gram-negative organisms
+235,B95.7,2.5056818181818183,0.4232566946628065,1.0,1.0,Other staphylococcus as the cause of diseases classified to other chapters
+236,D50.0,2.5056818181818183,0.4232566946628065,1.0,1.0,Iron deficiency anaemia secondary to blood loss (chronic)
+237,D63.8,2.5056818181818183,0.4232566946628065,1.0,1.0,Anaemia in other chronic diseases classified elsewhere
+238,D64.8,2.5056818181818183,0.4232566946628065,1.0,1.0,Other specified anaemias
+239,D72.8,2.5056818181818183,0.4232566946628065,1.0,1.0,Other specified disorders of white blood cells
+240,E11.74,2.5056818181818183,0.4232566946628065,1.0,1.0,Type 2 diabetes mellitus with multiple complications
+241,E55.9,2.5056818181818183,0.4232566946628065,1.0,1.0,"Vitamin D deficiency, unspecified"
+242,E66.80,2.5056818181818183,0.4232566946628065,1.0,1.0,Other obesity
+243,E66.89,2.5056818181818183,0.4232566946628065,1.0,1.0,Other obesity
+244,F06.8,2.5056818181818183,0.4232566946628065,1.0,1.0,Other specified mental disorders due to brain damage and dysfunction and to physical disease
+245,I11.90,2.5056818181818183,0.4232566946628065,1.0,1.0,Hypertensive heart disease without (congestive) heart failure
+246,I42.0,2.5056818181818183,0.4232566946628065,1.0,1.0,Dilated cardiomyopathy
+247,J15.8,2.5056818181818183,0.4232566946628065,1.0,1.0,Other bacterial pneumonia
+248,J84.1,2.5056818181818183,0.4232566946628065,1.0,1.0,Other interstitial pulmonary diseases with fibrosis
+249,N10,2.5056818181818183,0.4232566946628065,1.0,1.0,Acute tubulo-interstitial nephritis
+250,N18.2,2.5056818181818183,0.4232566946628065,1.0,1.0,"Chronic kidney disease, stage 2"
+251,R18,2.5056818181818183,0.4232566946628065,1.0,1.0,Ascites
+252,R65.0,2.5056818181818183,0.4232566946628065,1.0,1.0,Systemic Inflammatory Response Syndrome of infectious origin without organ failure
+253,U09.9,2.5056818181818183,0.4232566946628065,1.0,1.0,Emergency use of U09.9
+254,Z93.1,2.5056818181818183,0.4232566946628065,1.0,1.0,Gastrostomy status
+255,F05.0,1.6821705426356592,0.4326188399974091,1.0,1.0,"Delirium not superimposed on dementia, so described"
+256,J18.9,1.51046511627907,0.4641743897904944,1.0,1.0,"Pneumonia, unspecified"
+257,N17.92,1.51046511627907,0.4641743897904944,1.0,1.0,"Acute renal failure, unspecified"
+258,Z03.3,1.5565610859728507,0.5043942742975921,1.0,1.0,Observation for suspected nervous system disorder
+259,E05.8,1.6666666666666667,0.5202891222147542,1.0,1.0,Other thyrotoxicosis
+260,E66.92,1.6666666666666667,0.5202891222147542,1.0,1.0,"Obesity, unspecified"
+261,E87.3,1.6666666666666667,0.5202891222147542,1.0,1.0,Alkalosis
+262,I25.5,1.6666666666666667,0.5202891222147542,1.0,1.0,Ischaemic cardiomyopathy
+263,I35.0,1.6666666666666667,0.5202891222147542,1.0,1.0,Aortic (valve) stenosis
+264,M54.5,1.6666666666666667,0.5202891222147542,1.0,1.0,Low back pain
+265,O09.3,1.6666666666666667,0.5202891222147542,1.0,1.0,nan
+266,R74.8,1.6666666666666667,0.5202891222147542,1.0,1.0,Abnormal levels of other serum enzymes
+267,Y57.9,1.6666666666666667,0.5202891222147542,1.0,1.0,"Drug or medicament, unspecified"
+268,B97.2,1.442016806722689,0.5204984530667486,1.0,1.0,Coronavirus as the cause of diseases classified to other chapters
+269,I10.90,1.6743295019157087,0.6265004846958989,1.0,1.0,Essential (primary) hypertension
+270,Z99.1,1.6743295019157087,0.6265004846958989,1.0,1.0,Dependence on respirator
+271,J18.8,1.4318555008210179,0.6503787934030609,1.0,1.0,"Other pneumonia, organism unspecified"
+272,J44.09,1.4318555008210179,0.6503787934030609,1.0,1.0,Chronic obstructive pulmonary disease with acute lower respiratory infection
+273,O99.5,1.4318555008210179,0.6503787934030609,1.0,1.0,"Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium"
+274,R32,1.4318555008210179,0.6503787934030609,1.0,1.0,Unspecified urinary incontinence
+275,Z95.0,1.4318555008210179,0.6503787934030609,1.0,1.0,Presence of electronic cardiac devices
+276,N08.3,1.25,0.6768956344393974,1.0,1.0,Glomerular disorders in diabetes mellitus
+277,I48.1,1.1538461538461535,0.7388352180735592,1.0,1.0,Persistent atrial fibrillation
+278,Z03.8,1.1538461538461535,0.7388352180735592,1.0,1.0,Observation for other suspected diseases and conditions
+279,I48.9,1.2558823529411764,0.7584822849341781,1.0,1.0,"Atrial fibrillation and atrial flutter, unspecified"
+280,Z20.8,1.2558823529411764,0.7584822849341781,1.0,1.0,Contact with and exposure to other communicable diseases
+281,I25.13,1.1792387543252596,0.7655579992428608,1.0,1.0,Atherosclerotic heart disease
+282,D69.58,1.2471590909090908,1.0,1.0,1.0,Secondary thrombocytopenia
+283,G63.2,1.2471590909090908,1.0,1.0,1.0,Diabetic polyneuropathy
+284,I25.11,1.068936877076412,1.0,1.0,1.0,Atherosclerotic heart disease
+285,I25.22,1.068936877076412,1.0,1.0,1.0,Old myocardial infarction
+286,I70.25,1.2471590909090908,1.0,1.0,1.0,Atherosclerosis of arteries of extremities
+287,J16.8,1.2471590909090908,1.0,1.0,1.0,Pneumonia due to other specified infectious organisms
+288,J22,1.2471590909090908,1.0,1.0,1.0,Unspecified acute lower respiratory infection
+289,J44.99,1.068936877076412,1.0,1.0,1.0,"Chronic obstructive pulmonary disease, unspecified"
+290,R63.0,1.2471590909090908,1.0,1.0,1.0,Anorexia
+291,S06.0,1.2471590909090908,1.0,1.0,1.0,Concussion
+292,Z11,1.067558057705841,1.0,1.0,1.0,Special screening examination for infectious and parasitic diseases
+293,Z48.0,1.1085568326947637,1.0,1.0,1.0,Attention to surgical dressings and sutures

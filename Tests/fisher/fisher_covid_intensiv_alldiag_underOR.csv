@@ -1,0 +1,460 @@
+,Diagnose,Oddsratio,P-value,fdr,Bonferroni-Holm adj. P-values,Diagnosis name
+0,Z22.8,0.14962010520163646,0.0015322124087672785,0.6484794363875052,0.7032854956241809,Carrier of other infectious diseases
+1,A09.9,0.0,0.033754423160263836,1.0,1.0,Gastroenteritis and colitis of unspecified origin
+2,Z29.0,0.301061678463094,0.04254340491945465,1.0,1.0,Isolation
+3,R51,0.2450090744101633,0.044874531866967216,1.0,1.0,Headache
+4,R11,0.4707675753228121,0.06736539225087441,1.0,1.0,Nausea and vomiting
+5,G47.0,0.2952586206896552,0.09608587210458217,1.0,1.0,Disorders of initiating and maintaining sleep [insomnias]
+6,J06.9,0.6021750805585392,0.11809319699761447,1.0,1.0,"Acute upper respiratory infection, unspecified"
+7,A08.3,0.3281807372175981,0.1394026503959811,1.0,1.0,Other viral enteritis
+8,E03.9,0.0,0.2251684965343892,1.0,1.0,"Hypothyroidism, unspecified"
+9,R29.6,0.0,0.2251684965343892,1.0,1.0,"Tendency to fall, not elsewhere classified"
+10,O09.6,0.0,0.2325132572317087,1.0,1.0,nan
+11,N18.3,0.5836236933797909,0.3087969943288913,1.0,1.0,"Chronic kidney disease, stage 3"
+12,F00.1,0.0,0.3632559750539043,1.0,1.0,Dementia in Alzheimer disease with late onset
+13,G30.1,0.0,0.3632559750539043,1.0,1.0,Alzheimer disease with late onset
+14,J96.99,0.0,0.3632559750539043,1.0,1.0,"Respiratory failure, unspecified"
+15,A09.0,0.0,0.3681158009216572,1.0,1.0,Other and unspecified gastroenteritis and colitis of infectious origin
+16,O80,0.0,0.3681158009216572,1.0,1.0,Single spontaneous delivery
+17,F03,0.461959496442255,0.39885873959708174,1.0,1.0,Unspecified dementia
+18,R55,0.461959496442255,0.39885873959708174,1.0,1.0,Syncope and collapse
+19,F05.1,0.4399164054336468,0.4006885725035211,1.0,1.0,Delirium superimposed on dementia
+20,E86,0.7644574398960364,0.45018201676484815,1.0,1.0,Volume depletion
+21,K21.9,0.3482142857142857,0.4849150708197225,1.0,1.0,Gastro-oesophageal reflux disease without oesophagitis
+22,B99,0.625426944971537,0.48731046249385995,1.0,1.0,Other and unspecified infectious diseases
+23,E79.0,0.6044117647058823,0.4881467643725997,1.0,1.0,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease
+24,J00,0.7761513157894737,0.5407578895653085,1.0,1.0,Acute nasopharyngitis [common cold]
+25,F32.2,0.0,0.5956982185334738,1.0,1.0,Severe depressive episode without psychotic symptoms
+26,G20.00,0.0,0.5956982185334738,1.0,1.0,Parkinson disease
+27,O34.2,0.0,0.5956982185334738,1.0,1.0,Maternal care due to uterine scar from previous surgery
+28,O71.4,0.0,0.5956982185334738,1.0,1.0,Obstetric high vaginal laceration
+29,S30.0,0.0,0.5956982185334738,1.0,1.0,Contusion of lower back and pelvis
+30,Z86.7,0.0,0.5956982185334738,1.0,1.0,Personal history of diseases of the circulatory system
+31,Z88.0,0.0,0.5956982185334738,1.0,1.0,Personal history of allergy to penicillin
+32,F02.3,0.0,0.5958516537444599,1.0,1.0,Dementia in Parkinson disease
+33,F33.2,0.0,0.5958516537444599,1.0,1.0,"Recurrent depressive disorder, current episode severe without psychotic symptoms"
+34,G47.9,0.0,0.5958516537444599,1.0,1.0,"Sleep disorder, unspecified"
+35,O09.4,0.0,0.5958516537444599,1.0,1.0,nan
+36,R42,0.0,0.6073767966987034,1.0,1.0,Dizziness and giddiness
+37,Z03.5,0.0,0.6073767966987034,1.0,1.0,Observation for other suspected cardiovascular diseases
+38,R63.3,0.647843137254902,0.6337188307823138,1.0,1.0,Feeding difficulties and mismanagement
+39,Z37.0,0.4920454545454546,0.7004166418937856,1.0,1.0,Single live birth
+40,R50.80,0.4462809917355372,0.7005316451022848,1.0,1.0,Other specified fever
+41,R50.9,0.4462809917355372,0.7005316451022848,1.0,1.0,"Fever, unspecified"
+42,Z03.4,0.4462809917355372,0.7005316451022848,1.0,1.0,Observation for suspected myocardial infarction
+43,A41.1,0.0,1.0,1.0,1.0,Sepsis due to other specified staphylococcus
+44,A41.8,0.0,1.0,1.0,1.0,Other specified sepsis
+45,A46,0.0,1.0,1.0,1.0,Erysipelas
+46,A87.9,0.0,1.0,1.0,1.0,"Viral meningitis, unspecified"
+47,B02.7,0.0,1.0,1.0,1.0,Disseminated zoster
+48,B18.2,0.0,1.0,1.0,1.0,Chronic viral hepatitis C
+49,B33.8,0.0,1.0,1.0,1.0,Other specified viral diseases
+50,B37.2,0.0,1.0,1.0,1.0,Candidiasis of skin and nail
+51,B37.9,0.0,1.0,1.0,1.0,"Candidiasis, unspecified"
+52,B95.1,0.0,1.0,1.0,1.0,"Streptococcus, group B, as the cause of diseases classified to other chapters"
+53,B95.2,0.0,1.0,1.0,1.0,Streptococcus group D and enterococcus as the cause of diseases classified to other chapters
+54,B95.48,0.0,1.0,1.0,1.0,Other streptococcus as the cause of diseases classified to other chapters
+55,B97.4,0.0,1.0,1.0,1.0,Respiratory syncytial virus as the cause of diseases classified to other chapters
+56,C18.5,0.0,1.0,1.0,1.0,Malignant neoplasm: Splenic flexure
+57,C18.9,0.0,1.0,1.0,1.0,"Malignant neoplasm: Colon, unspecified"
+58,C34.3,0.0,1.0,1.0,1.0,"Malignant neoplasm: Lower lobe, bronchus or lung"
+59,C43.9,0.0,1.0,1.0,1.0,"Malignant neoplasm: Malignant melanoma of skin, unspecified"
+60,C50.9,0.0,1.0,1.0,1.0,"Malignant neoplasm: Breast, unspecified"
+61,C61,0.0,1.0,1.0,1.0,Malignant neoplasm of prostate
+62,C67.9,0.0,1.0,1.0,1.0,"Malignant neoplasm: Bladder, unspecified"
+63,C77.1,0.0,1.0,1.0,1.0,Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes
+64,C78.7,0.0,1.0,1.0,1.0,Secondary malignant neoplasm of liver and intrahepatic bile duct
+65,C79.3,0.0,1.0,1.0,1.0,Secondary malignant neoplasm of brain and cerebral meninges
+66,C79.5,0.0,1.0,1.0,1.0,Secondary malignant neoplasm of bone and bone marrow
+67,C80.0,0.0,1.0,1.0,1.0,"Malignant neoplasm, primary site unknown, so stated"
+68,C92.10,0.0,1.0,1.0,1.0,"Chronic myeloid leukaemia [CML], BCR/ABL-positive"
+69,C95.00,0.0,1.0,1.0,1.0,Acute leukaemia of unspecified cell type
+70,D05.9,0.0,1.0,1.0,1.0,"Carcinoma in situ of breast, unspecified"
+71,D12.8,0.0,1.0,1.0,1.0,Benign neoplasm: Rectum
+72,D47.1,0.0,1.0,1.0,1.0,Chronic myeloproliferative disease
+73,D47.2,0.0,1.0,1.0,1.0,Monoclonal gammopathy of undetermined significance (MGUS)
+74,D50.9,0.0,1.0,1.0,1.0,"Iron deficiency anaemia, unspecified"
+75,D52.9,0.0,1.0,1.0,1.0,"Folate deficiency anaemia, unspecified"
+76,D68.35,0.0,1.0,1.0,1.0,Haemorrhagic disorder due to circulating anticoagulants
+77,D69.61,0.0,1.0,1.0,1.0,"Thrombocytopenia, unspecified"
+78,D70.6,0.0,1.0,1.0,1.0,Agranulocytosis
+79,D72.9,0.0,1.0,1.0,1.0,"Disorder of white blood cells, unspecified"
+80,D90,0.0,1.0,1.0,1.0,nan
+81,E03.1,0.0,1.0,1.0,1.0,Congenital hypothyroidism without goitre
+82,E04.1,0.0,1.0,1.0,1.0,Nontoxic single thyroid nodule
+83,E04.9,0.0,1.0,1.0,1.0,"Nontoxic goitre, unspecified"
+84,E05.9,0.0,1.0,1.0,1.0,"Thyrotoxicosis, unspecified"
+85,E06.3,0.0,1.0,1.0,1.0,Autoimmune thyroiditis
+86,E10.90,0.0,1.0,1.0,1.0,Type 1 diabetes mellitus without complications
+87,E11.21,0.0,1.0,1.0,1.0,Type 2 diabetes mellitus with renal complications
+88,E11.40,0.0,1.0,1.0,1.0,Type 2 diabetes mellitus with neurological complications
+89,E11.61,0.0,1.0,1.0,1.0,Type 2 diabetes mellitus with other specified complications
+90,E11.73,0.0,1.0,1.0,1.0,Type 2 diabetes mellitus with multiple complications
+91,E13.40,0.0,1.0,1.0,1.0,Other specified diabetes mellitus with neurological complications
+92,E13.90,0.0,1.0,1.0,1.0,Other specified diabetes mellitus without complications
+93,E16.2,0.0,1.0,1.0,1.0,"Hypoglycaemia, unspecified"
+94,E26.9,0.0,1.0,1.0,1.0,"Hyperaldosteronism, unspecified"
+95,E27.4,0.0,1.0,1.0,1.0,Other and unspecified adrenocortical insufficiency
+96,E43,0.0,1.0,1.0,1.0,Unspecified severe protein-energy malnutrition
+97,E51.2,0.0,1.0,1.0,1.0,Wernicke encephalopathy
+98,E53.8,0.0,1.0,1.0,1.0,Deficiency of other specified B group vitamins
+99,E58,0.0,1.0,1.0,1.0,Dietary calcium deficiency
+100,E61.1,0.0,1.0,1.0,1.0,Iron deficiency
+101,E73.9,0.0,1.0,1.0,1.0,"Lactose intolerance, unspecified"
+102,E78.0,0.6178977272727273,1.0,1.0,1.0,Pure hypercholesterolaemia
+103,E78.5,0.0,1.0,1.0,1.0,"Hyperlipidaemia, unspecified"
+104,E88.28,0.0,1.0,1.0,1.0,"Lipomatosis, not elsewhere classified"
+105,F00.2,0.0,1.0,1.0,1.0,"Dementia in Alzheimer disease, atypical or mixed type"
+106,F00.9,0.0,1.0,1.0,1.0,"Dementia in Alzheimer disease, unspecified"
+107,F01.1,0.0,1.0,1.0,1.0,Multi-infarct dementia
+108,F06.7,0.0,1.0,1.0,1.0,Mild cognitive disorder
+109,F06.9,0.0,1.0,1.0,1.0,Unspecified mental disorder due to brain damage and dysfunction and to physical disease
+110,F09,0.0,1.0,1.0,1.0,Unspecified organic or symptomatic mental disorder
+111,F10.0,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to use of alcohol : acute intoxication
+112,F10.2,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to use of alcohol : dependence syndrome
+113,F10.3,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to use of alcohol withdrawal state
+114,F10.4,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to use of alcohol withdrawal state with delirium
+115,F10.5,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to use of alcohol : psychotic disorder
+116,F12.2,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to use of cannabinoids : dependence syndrome
+117,F17.2,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to use of tobacco : dependence syndrome
+118,F19.6,0.0,1.0,1.0,1.0,Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances : amnesic syndrome
+119,F20.0,0.0,1.0,1.0,1.0,Paranoid schizophrenia
+120,F20.2,0.0,1.0,1.0,1.0,Catatonic schizophrenia
+121,F20.9,0.0,1.0,1.0,1.0,"Schizophrenia, unspecified"
+122,F22.0,0.0,1.0,1.0,1.0,Delusional disorder
+123,F25.1,0.0,1.0,1.0,1.0,"Schizoaffective disorder, depressive type"
+124,F25.2,0.0,1.0,1.0,1.0,"Schizoaffective disorder, mixed type"
+125,F25.8,0.0,1.0,1.0,1.0,Other schizoaffective disorders
+126,F31.4,0.0,1.0,1.0,1.0,"Bipolar affective disorder, current episode severe depression without psychotic symptoms"
+127,F33.1,0.0,1.0,1.0,1.0,"Recurrent depressive disorder, current episode moderate"
+128,F41.0,0.0,1.0,1.0,1.0,Panic disorder [episodic paroxysmal anxiety]
+129,F41.1,0.0,1.0,1.0,1.0,Generalized anxiety disorder
+130,F44.6,0.0,1.0,1.0,1.0,Dissociative anaesthesia and sensory loss
+131,F45.0,0.0,1.0,1.0,1.0,Somatization disorder
+132,F45.33,0.0,1.0,1.0,1.0,Somatoform autonomic dysfunction
+133,F50.00,0.0,1.0,1.0,1.0,Anorexia nervosa
+134,F55.2,0.0,1.0,1.0,1.0,Abuse of non-dependence-producing substances
+135,F60.4,0.0,1.0,1.0,1.0,Histrionic personality disorder
+136,F73.1,0.0,1.0,1.0,1.0,Profound mental retardation : significant impairment of behaviour requiring attention or treatment
+137,F78.1,0.0,1.0,1.0,1.0,Other mental retardation : significant impairment of behaviour requiring attention or treatment
+138,F84.2,0.0,1.0,1.0,1.0,Rett syndrome
+139,G20.10,0.0,1.0,1.0,1.0,Parkinson disease
+140,G20.90,0.0,1.0,1.0,1.0,Parkinson disease
+141,G20.91,0.0,1.0,1.0,1.0,Parkinson disease
+142,G21.9,0.0,1.0,1.0,1.0,"Secondary parkinsonism, unspecified"
+143,G25.81,0.0,1.0,1.0,1.0,Other specified extrapyramidal and movement disorders
+144,G30.8,0.0,1.0,1.0,1.0,Other Alzheimer disease
+145,G30.9,0.0,1.0,1.0,1.0,"Alzheimer disease, unspecified"
+146,G31.0,0.0,1.0,1.0,1.0,Circumscribed brain atrophy
+147,G40.3,0.0,1.0,1.0,1.0,Generalized idiopathic epilepsy and epileptic syndromes
+148,G40.4,0.0,1.0,1.0,1.0,Other generalized epilepsy and epileptic syndromes
+149,G40.8,0.0,1.0,1.0,1.0,Other epilepsy
+150,G47.31,0.7077922077922078,1.0,1.0,1.0,Sleep apnoea
+151,G62.88,0.0,1.0,1.0,1.0,Other specified polyneuropathies
+152,G80.3,0.0,1.0,1.0,1.0,Dyskinetic cerebral palsy
+153,G80.8,0.0,1.0,1.0,1.0,Other cerebral palsy
+154,G80.9,0.0,1.0,1.0,1.0,"Cerebral palsy, unspecified"
+155,G81.1,0.0,1.0,1.0,1.0,Spastic hemiplegia
+156,G82.49,0.0,1.0,1.0,1.0,Spastic tetraplegia
+157,G82.59,0.0,1.0,1.0,1.0,"Tetraplegia, unspecified"
+158,H49.2,0.0,1.0,1.0,1.0,Sixth [abducent] nerve palsy
+159,H53.2,0.0,1.0,1.0,1.0,Diplopia
+160,H60.9,0.0,1.0,1.0,1.0,"Otitis externa, unspecified"
+161,H81.1,0.0,1.0,1.0,1.0,Benign paroxysmal vertigo
+162,H91.0,0.0,1.0,1.0,1.0,Ototoxic hearing loss
+163,I11.00,0.0,1.0,1.0,1.0,Hypertensive heart disease with (congestive) heart failure
+164,I12.91,0.0,1.0,1.0,1.0,Hypertensive renal disease without renal failure
+165,I20.0,0.0,1.0,1.0,1.0,Unstable angina
+166,I21.4,0.0,1.0,1.0,1.0,Acute subendocardial myocardial infarction
+167,I24.9,0.0,1.0,1.0,1.0,"Acute ischaemic heart disease, unspecified"
+168,I25.10,0.0,1.0,1.0,1.0,Atherosclerotic heart disease
+169,I34.0,0.0,1.0,1.0,1.0,Mitral (valve) insufficiency
+170,I35.1,0.0,1.0,1.0,1.0,Aortic (valve) insufficiency
+171,I35.8,0.0,1.0,1.0,1.0,Other aortic valve disorders
+172,I36.1,0.0,1.0,1.0,1.0,Nonrheumatic tricuspid (valve) insufficiency
+173,I42.88,0.0,1.0,1.0,1.0,Other cardiomyopathies
+174,I44.4,0.0,1.0,1.0,1.0,Left anterior fascicular block
+175,I44.7,0.0,1.0,1.0,1.0,"Left bundle-branch block, unspecified"
+176,I48.4,0.0,1.0,1.0,1.0,Atypical atrial flutter
+177,I50.12,0.0,1.0,1.0,1.0,Left ventricular failure
+178,I50.13,0.9954545454545456,1.0,1.0,1.0,Left ventricular failure
+179,I63.4,0.0,1.0,1.0,1.0,Cerebral infarction due to embolism of cerebral arteries
+180,I67.2,0.0,1.0,1.0,1.0,Cerebral atherosclerosis
+181,I69.3,0.9954545454545456,1.0,1.0,1.0,Sequelae of cerebral infarction
+182,I70.22,0.0,1.0,1.0,1.0,Atherosclerosis of arteries of extremities
+183,I70.23,0.0,1.0,1.0,1.0,Atherosclerosis of arteries of extremities
+184,I71.4,0.0,1.0,1.0,1.0,"Abdominal aortic aneurysm, without mention of rupture"
+185,I71.9,0.0,1.0,1.0,1.0,"Aortic aneurysm of unspecified site, without mention of rupture"
+186,I74.2,0.0,1.0,1.0,1.0,Embolism and thrombosis of arteries of upper extremities
+187,I77.6,0.0,1.0,1.0,1.0,"Arteritis, unspecified"
+188,I80.1,0.0,1.0,1.0,1.0,Phlebitis and thrombophlebitis of femoral vein
+189,I83.1,0.0,1.0,1.0,1.0,Varicose veins of lower extremities with inflammation
+190,I83.2,0.0,1.0,1.0,1.0,Varicose veins of lower extremities with both ulcer and inflammation
+191,I89.09,0.0,1.0,1.0,1.0,"Lymphoedema, not elsewhere classified"
+192,I97.29,0.0,1.0,1.0,1.0,Postmastectomy lymphoedema syndrome
+193,J01.8,0.0,1.0,1.0,1.0,Other acute sinusitis
+194,J09,0.0,1.0,1.0,1.0,Influenza due to identified zoonotic or pandemic influenza virus
+195,J12.9,0.0,1.0,1.0,1.0,"Viral pneumonia, unspecified"
+196,J20.5,0.0,1.0,1.0,1.0,Acute bronchitis due to respiratory syncytial virus
+197,J20.8,0.0,1.0,1.0,1.0,Acute bronchitis due to other specified organisms
+198,J20.9,0.0,1.0,1.0,1.0,"Acute bronchitis, unspecified"
+199,J21.0,0.0,1.0,1.0,1.0,Acute bronchiolitis due to respiratory syncytial virus
+200,J38.5,0.0,1.0,1.0,1.0,Laryngeal spasm
+201,J43.8,0.0,1.0,1.0,1.0,Other emphysema
+202,J44.19,0.9954545454545456,1.0,1.0,1.0,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+203,J45.0,0.0,1.0,1.0,1.0,Predominantly allergic asthma
+204,J45.8,0.0,1.0,1.0,1.0,Mixed asthma
+205,J68.4,0.0,1.0,1.0,1.0,"Chronic respiratory conditions due to chemicals, gases, fumes and vapours"
+206,J96.09,0.8276515151515151,1.0,1.0,1.0,Acute respiratory failure
+207,J98.1,0.9954545454545456,1.0,1.0,1.0,Pulmonary collapse
+208,J98.7,0.0,1.0,1.0,1.0,"Respiratory infections, not elsewhere classified"
+209,K08.88,0.0,1.0,1.0,1.0,Other specified disorders of teeth and supporting structures
+210,K22.81,0.0,1.0,1.0,1.0,Other specified diseases of oesophagus
+211,K25.3,0.0,1.0,1.0,1.0,Gastric ulcer : acute without haemorrhage or perforation
+212,K29.1,0.0,1.0,1.0,1.0,Other acute gastritis
+213,K29.6,0.90282131661442,1.0,1.0,1.0,Other gastritis
+214,K35.30,0.0,1.0,1.0,1.0,Acute appendicitis with localized peritonitis
+215,K44.9,0.0,1.0,1.0,1.0,Diaphragmatic hernia without obstruction or gangrene
+216,K50.88,0.0,1.0,1.0,1.0,Other Crohn disease
+217,K51.0,0.0,1.0,1.0,1.0,Ulcerative (chronic) pancolitis
+218,K51.8,0.0,1.0,1.0,1.0,Other ulcerative colitis
+219,K57.30,0.0,1.0,1.0,1.0,Diverticular disease of large intestine without perforation or abscess
+220,K59.00,0.0,1.0,1.0,1.0,Constipation
+221,K59.01,0.0,1.0,1.0,1.0,Constipation
+222,K62.2,0.0,1.0,1.0,1.0,Anal prolapse
+223,K64.0,0.0,1.0,1.0,1.0,First degree haemorrhoids
+224,K64.2,0.0,1.0,1.0,1.0,Third degree haemorrhoids
+225,K70.4,0.0,1.0,1.0,1.0,Alcoholic hepatic failure
+226,K72.74,0.0,1.0,1.0,1.0,"Hepatic failure, not elsewhere classified"
+227,K74.6,0.0,1.0,1.0,1.0,Other and unspecified cirrhosis of liver
+228,K76.0,0.0,1.0,1.0,1.0,"Fatty (change of) liver, not elsewhere classified"
+229,K80.20,0.0,1.0,1.0,1.0,Calculus of gallbladder without cholecystitis
+230,K80.50,0.0,1.0,1.0,1.0,Calculus of bile duct without cholangitis or cholecystitis
+231,K82.0,0.0,1.0,1.0,1.0,Obstruction of gallbladder
+232,K82.1,0.0,1.0,1.0,1.0,Hydrops of gallbladder
+233,K86.8,0.0,1.0,1.0,1.0,Other specified diseases of pancreas
+234,K90.0,0.0,1.0,1.0,1.0,Coeliac disease
+235,K92.0,0.0,1.0,1.0,1.0,Haematemesis
+236,K92.1,0.0,1.0,1.0,1.0,Melaena
+237,L01.0,0.0,1.0,1.0,1.0,Impetigo [any organism] [any site]
+238,L03.02,0.0,1.0,1.0,1.0,Cellulitis of finger and toe
+239,L04.0,0.0,1.0,1.0,1.0,"Acute lymphadenitis of face, head and neck"
+240,L23.9,0.0,1.0,1.0,1.0,"Allergic contact dermatitis, unspecified cause"
+241,L27.0,0.0,1.0,1.0,1.0,Generalized skin eruption due to drugs and medicaments
+242,L30.9,0.0,1.0,1.0,1.0,"Dermatitis, unspecified"
+243,L40.0,0.0,1.0,1.0,1.0,Psoriasis vulgaris
+244,L89.04,0.0,1.0,1.0,1.0,Stage I decubitus ulcer and pressure area
+245,L89.05,0.0,1.0,1.0,1.0,Stage I decubitus ulcer and pressure area
+246,L89.17,0.0,1.0,1.0,1.0,Stage II decubitus ulcer
+247,L89.19,0.0,1.0,1.0,1.0,Stage II decubitus ulcer
+248,L89.24,0.0,1.0,1.0,1.0,Stage III decubitus ulcer
+249,L89.27,0.0,1.0,1.0,1.0,Stage III decubitus ulcer
+250,L89.34,0.0,1.0,1.0,1.0,Stage IV decubitus ulcer
+251,L90.8,0.0,1.0,1.0,1.0,Other atrophic disorders of skin
+252,L97,0.0,1.0,1.0,1.0,"Ulcer of lower limb, not elsewhere classified"
+253,M05.39,0.0,1.0,1.0,1.0,Rheumatoid arthritis with involvement of other organs and systems
+254,M06.20,0.0,1.0,1.0,1.0,Rheumatoid bursitis
+255,M13.99,0.0,1.0,1.0,1.0,"Arthritis, unspecified"
+256,M24.55,0.0,1.0,1.0,1.0,Contracture of joint
+257,M24.56,0.0,1.0,1.0,1.0,Contracture of joint
+258,M35.3,0.0,1.0,1.0,1.0,Polymyalgia rheumatica
+259,M45.02,0.0,1.0,1.0,1.0,Ankylosing spondylitis
+260,M46.36,0.0,1.0,1.0,1.0,Infection of intervertebral disc (pyogenic)
+261,M46.47,0.0,1.0,1.0,1.0,"Discitis, unspecified"
+262,M47.26,0.0,1.0,1.0,1.0,Other spondylosis with radiculopathy
+263,M48.06,0.0,1.0,1.0,1.0,Spinal stenosis
+264,M54.14,0.0,1.0,1.0,1.0,Radiculopathy
+265,M54.16,0.0,1.0,1.0,1.0,Radiculopathy
+266,M54.89,0.0,1.0,1.0,1.0,Other dorsalgia
+267,M54.99,0.0,1.0,1.0,1.0,"Dorsalgia, unspecified"
+268,M60.80,0.0,1.0,1.0,1.0,Other myositis
+269,M79.70,0.0,1.0,1.0,1.0,Fibromyalgia
+270,M80.08,0.0,1.0,1.0,1.0,Postmenopausal osteoporosis with pathological fracture
+271,M81.09,0.0,1.0,1.0,1.0,Postmenopausal osteoporosis
+272,M81.89,0.0,1.0,1.0,1.0,Other osteoporosis
+273,M81.99,0.0,1.0,1.0,1.0,"Osteoporosis, unspecified"
+274,N13.1,0.0,1.0,1.0,1.0,"Hydronephrosis with ureteral stricture, not elsewhere classified"
+275,N13.8,0.0,1.0,1.0,1.0,Other obstructive and reflux uropathy
+276,N17.81,0.0,1.0,1.0,1.0,Other acute renal failure
+277,N17.82,0.0,1.0,1.0,1.0,Other acute renal failure
+278,N17.89,0.0,1.0,1.0,1.0,Other acute renal failure
+279,N19,0.0,1.0,1.0,1.0,Unspecified kidney failure
+280,N25.8,0.0,1.0,1.0,1.0,Other disorders resulting from impaired renal tubular function
+281,N28.1,0.0,1.0,1.0,1.0,Cyst of kidney
+282,N28.88,0.0,1.0,1.0,1.0,Other specified disorders of kidney and ureter
+283,N32.8,0.0,1.0,1.0,1.0,Other specified disorders of bladder
+284,N41.0,0.0,1.0,1.0,1.0,Acute prostatitis
+285,N44.0,0.0,1.0,1.0,1.0,Torsion of testis
+286,N45.9,0.0,1.0,1.0,1.0,"Orchitis, epididymitis and epididymo-orchitis without abscess"
+287,N50.8,0.0,1.0,1.0,1.0,Other specified disorders of male genital organs
+288,N83.2,0.0,1.0,1.0,1.0,Other and unspecified ovarian cysts
+289,N92.0,0.0,1.0,1.0,1.0,Excessive and frequent menstruation with regular cycle
+290,O06.5,0.0,1.0,1.0,1.0,"Unspecified abortion : complete or unspecified, complicated by genital tract and pelvic infection"
+291,O06.9,0.0,1.0,1.0,1.0,"Unspecified abortion : complete or unspecified, without complication"
+292,O09.1,0.0,1.0,1.0,1.0,nan
+293,O09.2,0.0,1.0,1.0,1.0,nan
+294,O09.5,0.9954545454545456,1.0,1.0,1.0,nan
+295,O14.0,0.0,1.0,1.0,1.0,Mild to moderate pre-eclampsia
+296,O14.1,0.0,1.0,1.0,1.0,Severe pre-eclampsia
+297,O21.0,0.0,1.0,1.0,1.0,Mild hyperemesis gravidarum
+298,O21.1,0.0,1.0,1.0,1.0,Hyperemesis gravidarum with metabolic disturbance
+299,O24.4,0.0,1.0,1.0,1.0,Diabetes mellitus arising in pregnancy
+300,O26.88,0.0,1.0,1.0,1.0,Other specified pregnancy-related conditions
+301,O26.9,0.0,1.0,1.0,1.0,"Pregnancy-related condition, unspecified"
+302,O28.8,0.0,1.0,1.0,1.0,Other abnormal findings on antenatal screening of mother
+303,O30.0,0.0,1.0,1.0,1.0,Twin pregnancy
+304,O32.5,0.0,1.0,1.0,1.0,Maternal care for multiple gestation with malpresentation of one fetus or more
+305,O36.0,0.0,1.0,1.0,1.0,Maternal care for rhesus isoimmunization
+306,O36.4,0.0,1.0,1.0,1.0,Maternal care for intrauterine death
+307,O36.5,0.0,1.0,1.0,1.0,Maternal care for poor fetal growth
+308,O36.6,0.0,1.0,1.0,1.0,Maternal care for excessive fetal growth
+309,O36.8,0.0,1.0,1.0,1.0,Maternal care for other specified fetal problems
+310,O41.1,0.0,1.0,1.0,1.0,Infection of amniotic sac and membranes
+311,O42.0,0.0,1.0,1.0,1.0,"Premature rupture of membranes, onset of labour within 24 hours"
+312,O42.20,0.0,1.0,1.0,1.0,"Premature rupture of membranes, labour delayed by therapy"
+313,O42.9,0.0,1.0,1.0,1.0,"Premature rupture of membranes, unspecified"
+314,O44.01,0.0,1.0,1.0,1.0,Placenta praevia specified as without haemorrhage
+315,O60.1,0.0,1.0,1.0,1.0,Preterm spontaneous labour with preterm delivery
+316,O60.3,0.0,1.0,1.0,1.0,Preterm delivery without spontaneous labour
+317,O62.1,0.0,1.0,1.0,1.0,Secondary uterine inertia
+318,O63.0,0.0,1.0,1.0,1.0,Prolonged first stage (of labour)
+319,O64.1,0.0,1.0,1.0,1.0,Obstructed labour due to breech presentation
+320,O68.0,0.0,1.0,1.0,1.0,Labour and delivery complicated by fetal heart rate anomaly
+321,O70.0,0.0,1.0,1.0,1.0,First degree perineal laceration during delivery
+322,O70.1,0.0,1.0,1.0,1.0,Second degree perineal laceration during delivery
+323,O71.8,0.0,1.0,1.0,1.0,Other specified obstetric trauma
+324,O72.1,0.0,1.0,1.0,1.0,Other immediate postpartum haemorrhage
+325,O75.2,0.0,1.0,1.0,1.0,"Pyrexia during labour, not elsewhere classified"
+326,O75.7,0.0,1.0,1.0,1.0,Vaginal delivery following previous caesarean section
+327,O82,0.8276515151515151,1.0,1.0,1.0,Single delivery by caesarean section
+328,O87.2,0.0,1.0,1.0,1.0,Haemorrhoids in the puerperium
+329,O98.5,0.0,1.0,1.0,1.0,"Other viral diseases complicating pregnancy, childbirth and the puerperium"
+330,O99.0,0.9954545454545456,1.0,1.0,1.0,"Anaemia complicating pregnancy, childbirth and the puerperium"
+331,O99.1,0.0,1.0,1.0,1.0,"Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism complicating pregnancy, childbirth and the puerperium"
+332,O99.2,0.0,1.0,1.0,1.0,"Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and the puerperium"
+333,P07.3,0.0,1.0,1.0,1.0,Other preterm infants
+334,P70.3,0.0,1.0,1.0,1.0,Iatrogenic neonatal hypoglycaemia
+335,P80.8,0.0,1.0,1.0,1.0,Other hypothermia of newborn
+336,P92.2,0.0,1.0,1.0,1.0,Slow feeding of newborn
+337,Q89.7,0.0,1.0,1.0,1.0,"Multiple congenital malformations, not elsewhere classified"
+338,R05,0.8256704980842912,1.0,1.0,1.0,Cough
+339,R07.0,0.0,1.0,1.0,1.0,Pain in throat
+340,R07.2,0.0,1.0,1.0,1.0,Precordial pain
+341,R07.3,0.0,1.0,1.0,1.0,Other chest pain
+342,R10.1,0.8276515151515151,1.0,1.0,1.0,Pain localized to upper abdomen
+343,R10.3,0.0,1.0,1.0,1.0,Pain localized to other parts of lower abdomen
+344,R12,0.0,1.0,1.0,1.0,Heartburn
+345,R15,0.6178977272727273,1.0,1.0,1.0,Faecal incontinence
+346,R19.88,0.0,1.0,1.0,1.0,Other specified symptoms and signs involving the digestive system and abdomen
+347,R21,0.0,1.0,1.0,1.0,Rash and other nonspecific skin eruption
+348,R26.3,0.0,1.0,1.0,1.0,Immobility
+349,R30.0,0.0,1.0,1.0,1.0,Dysuria
+350,R31,0.0,1.0,1.0,1.0,Unspecified haematuria
+351,R40.1,0.0,1.0,1.0,1.0,Stupor
+352,R41.0,0.0,1.0,1.0,1.0,"Disorientation, unspecified"
+353,R43.8,0.0,1.0,1.0,1.0,Other and unspecified disturbances of smell and taste
+354,R45.8,0.0,1.0,1.0,1.0,Other symptoms and signs involving emotional state
+355,R47.0,0.0,1.0,1.0,1.0,Dysphasia and aphasia
+356,R52.0,0.0,1.0,1.0,1.0,Acute pain
+357,R53,0.983270202020202,1.0,1.0,1.0,Malaise and fatigue
+358,R56.0,0.0,1.0,1.0,1.0,Febrile convulsions
+359,R57.8,0.0,1.0,1.0,1.0,Other shock
+360,R63.4,0.0,1.0,1.0,1.0,Abnormal weight loss
+361,R63.6,0.0,1.0,1.0,1.0,Insufficient intake of food and water
+362,R64,0.0,1.0,1.0,1.0,Cachexia
+363,R77.88,0.0,1.0,1.0,1.0,Other specified abnormalities of plasma proteins
+364,R82.8,0.0,1.0,1.0,1.0,Abnormal findings on cytological and histological examination of urine
+365,R99,0.0,1.0,1.0,1.0,Other ill-defined and unspecified causes of mortality
+366,S00.05,0.0,1.0,1.0,1.0,Superficial injury of scalp
+367,S00.21,0.0,1.0,1.0,1.0,Other superficial injuries of eyelid and periocular area
+368,S00.81,0.0,1.0,1.0,1.0,Superficial injury of other parts of head
+369,S00.85,0.0,1.0,1.0,1.0,Superficial injury of other parts of head
+370,S01.0,0.0,1.0,1.0,1.0,Open wound of scalp
+371,S01.51,0.0,1.0,1.0,1.0,Open wound of lip and oral cavity
+372,S01.84,0.0,1.0,1.0,1.0,Open wound of other parts of head
+373,S02.2,0.0,1.0,1.0,1.0,Fracture of nasal bones
+374,S10.85,0.0,1.0,1.0,1.0,Superficial injury of other parts of neck
+375,S13.4,0.0,1.0,1.0,1.0,Sprain and strain of cervical spine
+376,S20.2,0.0,1.0,1.0,1.0,Contusion of thorax
+377,S22.05,0.0,1.0,1.0,1.0,Fracture of thoracic vertebra
+378,S30.1,0.0,1.0,1.0,1.0,Contusion of abdominal wall
+379,S32.01,0.0,1.0,1.0,1.0,Fracture of lumbar vertebra
+380,S32.4,0.0,1.0,1.0,1.0,Fracture of acetabulum
+381,S32.5,0.0,1.0,1.0,1.0,Fracture of pubis
+382,S40.81,0.0,1.0,1.0,1.0,Other superficial injuries of shoulder and upper arm
+383,S41.84,0.0,1.0,1.0,1.0,Open wound of other and unspecified parts of shoulder girdle
+384,S42.01,0.0,1.0,1.0,1.0,Fracture of clavicle
+385,S42.21,0.0,1.0,1.0,1.0,Fracture of upper end of humerus
+386,S42.42,0.0,1.0,1.0,1.0,Fracture of lower end of humerus
+387,S42.44,0.0,1.0,1.0,1.0,Fracture of lower end of humerus
+388,S43.00,0.0,1.0,1.0,1.0,Dislocation of shoulder joint
+389,S50.81,0.0,1.0,1.0,1.0,Other superficial injuries of forearm
+390,S52.6,0.0,1.0,1.0,1.0,Fracture of lower end of both ulna and radius
+391,S60.81,0.0,1.0,1.0,1.0,Other superficial injuries of wrist and hand
+392,S61.80,0.0,1.0,1.0,1.0,Open wound of other parts of wrist and hand
+393,S61.88,0.0,1.0,1.0,1.0,Open wound of other parts of wrist and hand
+394,S61.9,0.0,1.0,1.0,1.0,"Open wound of wrist and hand, part unspecified"
+395,S62.15,0.0,1.0,1.0,1.0,Fracture of other carpal bone(s)
+396,S62.16,0.0,1.0,1.0,1.0,Fracture of other carpal bone(s)
+397,S62.30,0.0,1.0,1.0,1.0,Fracture of other metacarpal bone
+398,S62.51,0.0,1.0,1.0,1.0,Fracture of thumb
+399,S63.12,0.0,1.0,1.0,1.0,Dislocation of finger
+400,S63.4,0.0,1.0,1.0,1.0,Traumatic rupture of ligament of finger at metacarpophalangeal and interphalangeal joint(s)
+401,S66.3,0.0,1.0,1.0,1.0,Injury of extensor muscle and tendon of other finger at wrist and hand level
+402,S70.0,0.0,1.0,1.0,1.0,Contusion of hip
+403,S71.85,0.0,1.0,1.0,1.0,Open wound of other and unspecified parts of pelvic girdle
+404,S72.01,0.0,1.0,1.0,1.0,Fracture of neck of femur
+405,S72.04,0.0,1.0,1.0,1.0,Fracture of neck of femur
+406,S72.08,0.0,1.0,1.0,1.0,Fracture of neck of femur
+407,S72.11,0.0,1.0,1.0,1.0,Pertrochanteric fracture
+408,S73.08,0.0,1.0,1.0,1.0,Dislocation of hip
+409,S80.0,0.0,1.0,1.0,1.0,Contusion of knee
+410,S81.0,0.0,1.0,1.0,1.0,Open wound of knee
+411,S81.80,0.0,1.0,1.0,1.0,Open wound of other parts of lower leg
+412,S82.6,0.0,1.0,1.0,1.0,Fracture of lateral malleolus
+413,S90.0,0.0,1.0,1.0,1.0,Contusion of ankle
+414,S90.1,0.0,1.0,1.0,1.0,Contusion of toe(s) without damage to nail
+415,S91.0,0.0,1.0,1.0,1.0,Open wound of ankle
+416,S91.1,0.0,1.0,1.0,1.0,Open wound of toe(s) without damage to nail
+417,S91.3,0.0,1.0,1.0,1.0,Open wound of other parts of foot
+418,S93.2,0.0,1.0,1.0,1.0,Rupture of ligaments at ankle and foot level
+419,T14.8,0.0,1.0,1.0,1.0,Other injuries of unspecified body region
+420,T80.2,0.0,1.0,1.0,1.0,"Infections following infusion, transfusion and therapeutic injection"
+421,T81.8,0.0,1.0,1.0,1.0,"Other complications of procedures, not elsewhere classified"
+422,T83.0,0.0,1.0,1.0,1.0,Mechanical complication of urinary (indwelling) catheter
+423,T83.5,0.0,1.0,1.0,1.0,"Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system"
+424,T84.14,0.0,1.0,1.0,1.0,Mechanical complication of internal fixation device of bones of limb
+425,T84.5,0.0,1.0,1.0,1.0,Infection and inflammatory reaction due to internal joint prosthesis
+426,T89.02,0.0,1.0,1.0,1.0,nan
+427,U07.3,0.0,1.0,1.0,1.0,Emergency use of U07.3
+428,U69.02,0.0,1.0,1.0,1.0,nan
+429,U81.20,0.0,1.0,1.0,1.0,nan
+430,V99,0.0,1.0,1.0,1.0,Unspecified transport accident
+431,Z00.1,0.0,1.0,1.0,1.0,Routine child health examination
+432,Z22.3,0.9954545454545456,1.0,1.0,1.0,Carrier of other specified bacterial diseases
+433,Z22.9,0.0,1.0,1.0,1.0,"Carrier of infectious disease, unspecified"
+434,Z35.1,0.0,1.0,1.0,1.0,Supervision of pregnancy with history of abortive outcome
+435,Z35.5,0.0,1.0,1.0,1.0,Supervision of elderly primigravida
+436,Z37.1,0.0,1.0,1.0,1.0,Single stillbirth
+437,Z37.2,0.0,1.0,1.0,1.0,"Twins, both liveborn"
+438,Z38.3,0.0,1.0,1.0,1.0,"Twin, born in hospital"
+439,Z43.1,0.0,1.0,1.0,1.0,Attention to gastrostomy
+440,Z47.0,0.0,1.0,1.0,1.0,Follow-up care involving removal of fracture plate and other internal fixation device
+441,Z51.5,0.90282131661442,1.0,1.0,1.0,Palliative care
+442,Z74.9,0.0,1.0,1.0,1.0,"Problem related to care-provider dependency, unspecified"
+443,Z75.8,0.0,1.0,1.0,1.0,Other problems related to medical facilities and other health care
+444,Z85.0,0.0,1.0,1.0,1.0,Personal history of malignant neoplasm of digestive organs
+445,Z85.6,0.0,1.0,1.0,1.0,Personal history of leukaemia
+446,Z86.1,0.0,1.0,1.0,1.0,Personal history of infectious and parasitic diseases
+447,Z88.6,0.0,1.0,1.0,1.0,Personal history of allergy to analgesic agent
+448,Z88.8,0.0,1.0,1.0,1.0,"Personal history of allergy to other drugs, medicaments and biological substances"
+449,Z90.2,0.0,1.0,1.0,1.0,Acquired absence of lung [part of]
+450,Z92.2,0.9400123685837972,1.0,1.0,1.0,Personal history of long-term (current) use of other medicaments
+451,Z92.4,0.0,1.0,1.0,1.0,"Personal history of major surgery, not elsewhere classified"
+452,Z94.0,0.0,1.0,1.0,1.0,Kidney transplant status
+453,Z95.2,0.0,1.0,1.0,1.0,Presence of prosthetic heart valve
+454,Z95.88,0.0,1.0,1.0,1.0,Presence of other cardiac and vascular implants and grafts
+455,Z96.64,0.0,1.0,1.0,1.0,Presence of orthopaedic joint implants
+456,Z96.65,0.0,1.0,1.0,1.0,Presence of orthopaedic joint implants
+457,Z96.68,0.0,1.0,1.0,1.0,Presence of orthopaedic joint implants
+458,Z96.88,0.0,1.0,1.0,1.0,Presence of other specified functional implants
