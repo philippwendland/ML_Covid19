@@ -16,7 +16,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import roc_curve, auc
 import sklearn
-import joblib
 
 
 data_link='C:/Users/schmitt4/Desktop/gtt202122/gtt202122.csv'
@@ -568,8 +567,6 @@ y_pred = rf.predict_proba(X_test.dropna())[:,1]
 fpr, tpr, thresh = roc_curve(y_test,y_pred)
 roc_auc = auc(fpr,tpr)
 print(roc_auc)
-
-joblib.dump(rf, 'C:/Users/schmitt4/Documents/GitHub/GTT-Trigger-tool/Preprocessing_data_cleaning/Version13b/beat_rf.joblib')
 
 #######################################################################################
 ############################# XGBoost  ##########################################
@@ -1165,12 +1162,12 @@ for i in covid_cases:
 
 from matplotlib_venn import venn3
 
-fig = plt.figure(dpi=400, figsize=(10,10))
+fig = plt.figure(dpi=300, figsize=(10,10))
 
 venn = venn3(subsets = (death_group, icu_group, death_icu_group, vent_group, death_vent_group, icu_vent_group, allgroup), set_labels = ('In-hospital mortality', 'Transfer to ICU', 'Mechanical ventilation'), alpha = 0.5);
 lbl = venn.get_label_by_id('A')
 x, y = lbl.get_position()
-lbl.set_position((x+0.5, y+0.05)) 
+lbl.set_position((x+0.55, y+0.05)) 
 
 lbl = venn.get_label_by_id('B')
 x, y = lbl.get_position()
