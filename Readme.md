@@ -1,4 +1,4 @@
-# Prediction of Covid-19 associated sentinel events based on laboratory values via machine learning in hospitals
+# Machine learning models for predicting severe COVID-19 outcomes in hospitals
 
 This is the Githup Repository for the paper Prediction of Covid-19 associated sentinel events based on laboratory values via machine learning in hospitals by Wendland etal. [1] containing the code to reconstruct our results and additional supplementary files. In our work we construct machine-learning based models
 for the prediction of in-hospital mortality, transfer to intensive-care unit (ICU) and mechanical ventilation of hospitalized Covid-19 patients. We use age, biological sex and averaged covariates of the first 48 or 24 hours after admission to a hospital as (possible) covariates. 
