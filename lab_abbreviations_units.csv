@@ -1,0 +1,90 @@
+english_short,english_long,Unit
+Urea,Urea,mg/dl
+Cr,Creatinine,mg/dl
+GFR,Glomerular filtration rate,ml/min
+CRP,C-Reactive Protein,mg/l
+Gluc,Blood glucose,mg/dl
+Quick,Quick (Prothrombin Time),%
+INR,International normalired ratio (Prothrombin Time),
+PTT,Partial Thromboplastin Time,Sec
+O2-Sat,O2-Saturation,%
+TropThs,Troponin T (high sensitive),pg/ml
+RDW,Red cell distribution width,%
+LDH,Lactate Dehydrogenase,IU/L
+GOT,Glutamate Oxalacetate Transaminase,U/L
+PCT ,Procalcitonin,ng/ml
+Ca,Calcium,mmol/l
+Lymph,Lymphocytes,%
+NTpBNp,N-terminal prohormone of brain natriuretic peptide,pg/ml
+MCV,Mean corpuscular volume,fl
+Leuko,Leukocytes,/nl
+MCHC,Mean corpuscular hemoglobin concentration,g/dl
+FO2Hb,Fraction of oxygenated hemoglobin,%
+PLT,Platelets/Thrombocytes,/nl
+Monoc,Monocytes,%
+pO2,Partial pressure of oxygen,mmHg
+D-Dim,D-dimer,µg/ml
+Neutro,Neutrophils,%
+iCa ,Ionized Calcium,mmol/l
+UpH,Urine pH ,mol/l
+pH,pH,mol/l
+So,Sodium,mmol/l
+B.E.,Base Excess,mval/l
+Seg,Segmented neutrophils,%
+Eos,Eosinophils,%
+Alb,Albumin,g/dl
+FT3,Free T3,pg/ml
+HCO3,Hydrogen carbonate,mval/l
+Mg,Magnesium,mg/dl
+D Bil,Direct Bilirubin,µmol/l
+TP,Total protein,g/l
+FCOHb,Fraction of carboxyhemoglobin,%
+CK-MB,Creatine Kinase-MB,u/l
+Iron,Total iron,µg/dl
+Cl,Chloride,mmol/l
+CK-NAC,Creatine Kinase-NAC,u/l
+Meta,Metamyelocytes,%
+MCH,Mean corpuscular hemoglobin,pg
+T_Bil,Total bilirubin,mg/dl
+TS,Transferrin saturation ,%
+B12,Vitamin B 12,ng/l
+Ery,Erythrocytes,/pl
+Ct,Ct-Value for Sars-Cov-2,
+SpeWe,Specific Weight?,
+FER,Ferritin,ng/ml
+Lact,Lactate ,mg/dl
+U-SpeWe,Urine Specific Weight,
+Fhhb,Desoxyhemoglobin fraction,%
+TC,total cholesterol ,mg/dl
+Fibr,Fibrinogen,mg/dl
+Stab,?,%
+GGT,Gamma Glutamyl Transferase,u/l
+p50Tc,p50Tc,mmHg
+U-Ery,Urine erythrocytes,/µl
+FolA,Folic acid,µg/l
+GPT,Glutamate Pyruvic Transaminase,u/l
+Baso,Basophils,%
+CHE,Cholinesterase,u/l
+Retic,Reticulocytes,%
+TT ,Thrombin Time,sec
+Reizf,?,%
+ALP,Alkaline Phosphatase,u/l
+HGB,Hemoglobin ,g/dl
+HDL,High Density Lipoprotein,mg/dl
+Amyl,Amylase,u/l
+pCO2,Partial pressure of carbon dioxide,mmHg
+TSH,Thyroid Stimulating Hormone,µu/ml
+Myelo,Myelocytes,%
+PO4,Phosphorus,mg/dl
+TGL,Triglycerides,mg/dl
+FT4,Free Thyroxine,ng/dl
+LDL,low-density lipoprotein,mg/dl
+TF,Transferrin ,mg/dl
+Pot,Potassium,mmol/l
+HbA1c,Hemoglobin A1c,%
+HbA1cm,Hemoglobin A1cm,mmol/mol
+HCT,Hematocrit,%
+U-Leuc,Urine leukocytes,/µl
+U-Acid,Uric Acid,mg/dl
+LDLHDL,LDL/HDL-Quotient ,
+Lip,Lipase,u/l
