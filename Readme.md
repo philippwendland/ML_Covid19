@@ -7,7 +7,7 @@ for the prediction of in-hospital mortality, transfer to intensive-care unit (IC
 
 # Content of the repository
 * In the folder Code_Paper you can find the code to reproduce our findings
-* The folder Tests contain complete csv files with all wilcoxon-rank-sum-tests and t-tests for all endpoints 
+* The folder Tests contain complete csv files with all wilcoxon-rank-sum-tests and t-tests for all endpoints including missing rates for each feature
 * The lab_abbreviations.csv file contains a complete list of the full names of all laboratory values
 
 # Explanations regarding the Code for the paper
