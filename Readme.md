@@ -1,14 +1,17 @@
-# Machine learning models for predicting severe COVID-19 outcomes in hospitals
+# Machine learning models for predicting severe COVID-19 outcomes and Acute Kidney Injury (AKI) in hospitals
 
 This is the Githup Repository for the paper Prediction of Covid-19 associated sentinel events based on laboratory values via machine learning in hospitals by Wendland etal. [1] containing the code to reconstruct our results and additional supplementary files. In our work we construct machine-learning based models
 for the prediction of in-hospital mortality, transfer to intensive-care unit (ICU) and mechanical ventilation of hospitalized Covid-19 patients. We use age, biological sex and averaged covariates of the first 48 or 24 hours after admission to a hospital as (possible) covariates. 
 
+We add further skripts on predicting Acute Kidney Injury to the repository. We construct machine-learning models for predicting AKI on data from a hospital of medium level of care and transfer them to the MIMIC dataset. This research was conducted with support from Lisanne Brüggemann.
+
 **Important**: The patient data used in our analysis is not included in this repository because we are not allowed to publicly share these data due to german law. 
 
 # Content of the repository
-* In the folder Code_Paper you can find the code to reproduce our findings
+* In the folder Code_Paper you can find the code to reproduce the results of [1]
 * The folder Tests contain complete csv files with all wilcoxon-rank-sum-tests and t-tests for all endpoints including missing rates for each feature
 * The lab_abbreviations.csv file contains a complete list of the full names of all laboratory values
+* The folder AKI contain the code on predicting AKI.
 
 # Explanations regarding the Code for the paper
 
